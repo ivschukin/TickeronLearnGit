@@ -37,4 +37,11 @@ One more try
 
 
 
+<<<<<<< .merge_file_a10108
 40
+=======
+
+
+42
+43
+>>>>>>> .merge_file_a01168
